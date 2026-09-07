@@ -13252,7 +13252,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "10K Volume"
+		(property "Value" "100K Volume"
 			(at 71.12 200.6599 0)
 			(show_name no)
 			(do_not_autoplace no)

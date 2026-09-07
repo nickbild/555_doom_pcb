@@ -3421,7 +3421,7 @@
 				)
 			)
 		)
-		(property "Value" "10K Volume"
+		(property "Value" "100K Volume"
 			(at 2.5 -3.6 0)
 			(layer "F.SilkS")
 			(uuid "2e1c9ad2-ecd7-4141-9624-7a7e64efe87d")
